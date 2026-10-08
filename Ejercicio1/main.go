@@ -42,7 +42,7 @@ func main() {
 		fmt.Println("Promedio:", promedio)
 		fmt.Println("Nota mayor:", mayor)
 		fmt.Println("Nota menor:", menor)
-		fmt.Println("-------------------------")
+		fmt.Println("/////////////////")
 	}
 
 	promedioGeneral := sumaGeneral / 6
